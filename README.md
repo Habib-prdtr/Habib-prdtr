@@ -1,6 +1,11 @@
 <!-- Header Section -->
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=009bd4ff&center=true&vCenter=true&width=940&lines=Hi+Everyone+%F0%9F%91%8B;Welcome+to+my+GitHub+Profile!;Coding+with+passion%2C+learning+with+purpose" alt="Typing SVG" />
+</div>
+
 <p align="center">
-  <img src="images/no bg.png" alt="Profile Picture" width="150" height="150" style="border-radius: 50%;">
+  <img src="images/no bg.png" alt="Profile Picture" width="200" height="200" style="border-radius: 50%; border: 4px solid #00d4aa; box-shadow: 0 0 20px rgba(0, 212, 170, 0.3);">
 </p>
 
 <h1 align="center">Hi Everyone 👋</h1>
@@ -13,6 +18,8 @@
 
 ## 🚀 Tentang Saya
 
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+
 - 🌱 Sedang belajar Upgrade Skill diri sendiri.
 - 👯 Terbuka untuk kolaborasi pada proyek open source atau freelance.
 - 😄 Pronouns: he/him
@@ -21,7 +28,7 @@
 
 ---
 
-## ☕ Fun Fact
+## ⚡ Fun Fact
 
 > Saya percaya ngoding yang seru ketika tidak mengalami error code 😁.
 
