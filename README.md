@@ -15,11 +15,9 @@
 ---
 
 ## 🚀 Tentang Saya
-
-<div align="center">
+<!-- <div align="center">
   <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" alt="Coding" width="400">
-</div>
-
+</div> -->
 - 🌱 Saat ini sedang fokus untuk upgrade skill dan memperdalam pengetahuan di bidang teknologi.
 - 👯 Terbuka untuk kolaborasi pada proyek open source atau freelance.
 - 😄 Pronouns: **he/him**
