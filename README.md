@@ -16,7 +16,7 @@
 
 ## 🚀 Tentang Saya
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+<img align="center" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 - 🌱 Saat ini sedang fokus untuk upgrade skill dan memperdalam pengetahuan di bidang teknologi.
 - 👯 Terbuka untuk kolaborasi pada proyek open source atau freelance.
