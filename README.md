@@ -10,9 +10,7 @@
 
 <h1 align="center">Hi Everyone 👋</h1>
 
-<p align="center">
-  <em>“Coding with passion, learning with purpose.”</em>
-</p>
+<p align="center"><em>“Coding with passion, learning with purpose.”</em></p>
 
 ---
 
@@ -20,21 +18,20 @@
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-- 🌱 Sedang belajar Upgrade Skill diri sendiri.
+- 🌱 Saat ini sedang fokus untuk upgrade skill dan memperdalam pengetahuan di bidang teknologi.
 - 👯 Terbuka untuk kolaborasi pada proyek open source atau freelance.
-- 😄 Pronouns: he/him
-- 💬 Bisa ngobrol tentang pemrograman, teknologi, atau hal menarik lainnya.
+- 😄 Pronouns: **he/him**
+- 💬 Suka ngobrol seputar pemrograman, teknologi, atau hal menarik lainnya.
 - 📫 Hubungi saya di: [habibin64@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=habibin64@gmail.com)
 
 ---
 
 ## ⚡ Fun Fact
 
-> Saya percaya ngoding yang seru ketika tidak mengalami error code 😁.
+> Saya percaya ngoding itu menyenangkan... selama tidak ada error 😁
 
 ---
 
 <p align="center">
-  Terima kasih sudah mampir ke profil saya! 🙏
+  🙏 Terima kasih sudah mampir ke profil saya!
 </p>
-
