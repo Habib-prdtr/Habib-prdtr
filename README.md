@@ -59,15 +59,18 @@
 
 ---
 
-## 🐍 Contribution Graph (Snake)
+## 🏆 GitHub Trophies
 
 <div align="center">
-  <p>Game ular memakan kotak kontribusi hijau GitHub saya!</p>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Habib-prdtr/Habib-prdtr/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Habib-prdtr/Habib-prdtr/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Habib-prdtr/Habib-prdtr/output/github-contribution-grid-snake.svg">
-  </picture>
+  <img src="https://github-profile-trophy.vercel.app/?username=Habib-prdtr&theme=tokyonight&no-bg=true&margin-w=15" alt="Habib's Trophies" />
+</div>
+
+---
+
+## 📈 Activity Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Habib-prdtr&bg_color=0D1117&color=00d4aa&line=00d4aa&point=ffffff&area=true&hide_border=true&custom_title=GitHub%20Active%20Days" alt="Habib's Activity Graph" width="100%" />
 </div>
 
 ---
