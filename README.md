@@ -49,20 +49,20 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Habib-prdtr&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Habib-prdtr&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&include_all_commits=true&count_private=true" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Habib-prdtr&theme=tokyonight&hide_border=true&background=0D1117" width="48%" />
 </div>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Habib-prdtr&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" width="60%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Habib-prdtr&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&hide_progress=true" width="60%" />
 </p>
 
 ---
 
-## 🏆 GitHub Trophies
+## 💡 Programming Quote
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Habib-prdtr&theme=tokyonight&no-bg=true&margin-w=15" alt="Habib's Trophies" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Programming Quote" />
 </div>
 
 ---
