@@ -64,9 +64,9 @@
 <div align="center">
   <p>Game ular memakan kotak kontribusi hijau GitHub saya!</p>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Habib-prdtr/Habib-prdtr/output/dist/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Habib-prdtr/Habib-prdtr/output/dist/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Habib-prdtr/Habib-prdtr/output/dist/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Habib-prdtr/Habib-prdtr/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Habib-prdtr/Habib-prdtr/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Habib-prdtr/Habib-prdtr/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
 
