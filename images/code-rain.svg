@@ -1,0 +1,113 @@
+<svg width="1000" height="320" viewBox="0 0 1000 320" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Cyberpunk code rain animation</title>
+  <desc id="desc">A glowing cyberpunk banner with animated code rain, neon grid lines, and a central developer title.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1000" y2="320" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#05060F"/>
+      <stop offset="0.48" stop-color="#071427"/>
+      <stop offset="1" stop-color="#13051F"/>
+    </linearGradient>
+    <linearGradient id="neon" x1="140" y1="0" x2="860" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#00F5FF" stop-opacity="0"/>
+      <stop offset="0.25" stop-color="#00F5FF"/>
+      <stop offset="0.52" stop-color="#B026FF"/>
+      <stop offset="0.78" stop-color="#00FF85"/>
+      <stop offset="1" stop-color="#00F5FF" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="glow" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feColorMatrix in="blur" type="matrix" values="0 0 0 0 0  0 0 0 0 0.95  0 0 0 0 1  0 0 0 0.8 0"/>
+      <feMerge>
+        <feMergeNode/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <filter id="softGlow" x="-40%" y="-40%" width="180%" height="180%">
+      <feGaussianBlur stdDeviation="10" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <pattern id="grid" width="42" height="42" patternUnits="userSpaceOnUse">
+      <path d="M42 0H0V42" stroke="#00F5FF" stroke-opacity="0.13" stroke-width="1"/>
+    </pattern>
+    <style>
+      .rain {
+        font-family: "Fira Code", "Consolas", monospace;
+        font-size: 18px;
+        fill: #00ff85;
+        text-shadow: 0 0 8px #00ff85, 0 0 16px #00f5ff;
+        opacity: .78;
+        animation: fall 7s linear infinite;
+      }
+      .rain.alt {
+        fill: #00f5ff;
+        opacity: .62;
+        animation-duration: 9s;
+      }
+      .rain.pink {
+        fill: #ff2bd6;
+        opacity: .5;
+        animation-duration: 11s;
+      }
+      .delay1 { animation-delay: -1.2s; }
+      .delay2 { animation-delay: -2.6s; }
+      .delay3 { animation-delay: -3.8s; }
+      .delay4 { animation-delay: -5.1s; }
+      .delay5 { animation-delay: -6.4s; }
+      .scan {
+        animation: scan 4.8s ease-in-out infinite;
+      }
+      .pulse {
+        animation: pulse 2.6s ease-in-out infinite;
+      }
+      @keyframes fall {
+        from { transform: translateY(-360px); }
+        to { transform: translateY(360px); }
+      }
+      @keyframes scan {
+        0%, 100% { transform: translateY(-55px); opacity: 0; }
+        45%, 55% { opacity: .9; }
+        100% { transform: translateY(210px); }
+      }
+      @keyframes pulse {
+        0%, 100% { opacity: .55; }
+        50% { opacity: 1; }
+      }
+    </style>
+  </defs>
+
+  <rect width="1000" height="320" rx="24" fill="url(#bg)"/>
+  <rect width="1000" height="320" rx="24" fill="url(#grid)"/>
+  <circle cx="155" cy="78" r="120" fill="#00F5FF" opacity="0.13" filter="url(#softGlow)"/>
+  <circle cx="842" cy="232" r="135" fill="#B026FF" opacity="0.18" filter="url(#softGlow)"/>
+  <path d="M72 248H928" stroke="url(#neon)" stroke-width="2" filter="url(#glow)"/>
+  <path d="M118 280H882" stroke="url(#neon)" stroke-width="1.2" opacity=".58"/>
+  <path class="scan" d="M90 64H910" stroke="url(#neon)" stroke-width="3" filter="url(#glow)"/>
+
+  <g opacity=".9">
+    <text class="rain delay1" x="42" y="0">10110</text>
+    <text class="rain alt delay3" x="95" y="32">const</text>
+    <text class="rain pink delay2" x="156" y="-18">0101</text>
+    <text class="rain delay5" x="218" y="44">async</text>
+    <text class="rain alt delay1" x="286" y="-42">{ }</text>
+    <text class="rain delay4" x="352" y="28">npm</text>
+    <text class="rain pink delay5" x="420" y="-8">&lt;/&gt;</text>
+    <text class="rain alt delay2" x="486" y="38">push</text>
+    <text class="rain delay3" x="552" y="-30">01001</text>
+    <text class="rain pink delay1" x="628" y="22">git</text>
+    <text class="rain alt delay4" x="690" y="-12">code</text>
+    <text class="rain delay2" x="764" y="46">while</text>
+    <text class="rain pink delay3" x="836" y="-34">dev</text>
+    <text class="rain alt delay5" x="902" y="18">101</text>
+  </g>
+
+  <rect x="170" y="92" width="660" height="136" rx="18" fill="#05060F" fill-opacity=".68" stroke="url(#neon)" stroke-width="1.5" filter="url(#glow)"/>
+  <text x="500" y="144" text-anchor="middle" font-family="Fira Code, Consolas, monospace" font-size="28" font-weight="700" fill="#E9FBFF" filter="url(#glow)">HABIB • CODE MODE</text>
+  <text x="500" y="181" text-anchor="middle" font-family="Fira Code, Consolas, monospace" font-size="17" fill="#00FF85" class="pulse">Learning • Building • Collaborating</text>
+  <text x="500" y="205" text-anchor="middle" font-family="Fira Code, Consolas, monospace" font-size="14" fill="#93F8FF" opacity=".88">HTML / CSS / JavaScript / PHP / MySQL</text>
+
+  <path d="M174 82L132 82L132 124" stroke="#00F5FF" stroke-width="3" stroke-linecap="round" filter="url(#glow)"/>
+  <path d="M826 238L868 238L868 196" stroke="#FF2BD6" stroke-width="3" stroke-linecap="round" filter="url(#glow)"/>
+</svg>
