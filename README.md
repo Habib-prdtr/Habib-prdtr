@@ -52,12 +52,12 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Habib-prdtr&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" alt="Habib's GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Habib-prdtr&theme=tokyonight&hide_border=true&background=0D1117" width="48%" alt="Habib's GitHub streak" />
+  <img src="images/github-stats.svg" width="48%" alt="Habib's GitHub profile overview" />
+  <img src="images/github-streak.svg" width="48%" alt="Habib's coding momentum" />
 </div>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Habib-prdtr&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&hide_progress=true" width="60%" alt="Most used languages" />
+  <img src="top-langs.svg" width="60%" alt="Most used languages" />
 </p>
 
 ---
