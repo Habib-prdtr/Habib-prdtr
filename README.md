@@ -1,9 +1,7 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Habib's%20GitHub&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Coding%20with%20passion,%20learning%20with%20purpose&descAlignY=55&descAlign=62" alt="Habib's GitHub" />
-</div>
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00D4AA&center=true&vCenter=true&width=600&lines=Hi+Everyone+!;Welcome+to+my+GitHub+Profile!;I'm+focused+on+continuous+learning;Open+for+exciting+collaborations&v=2" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Habib's%20GitHub&fontSize=80&animation=fadeIn&fontAlignY=38&desc=Coding%20with%20passion,%20learning%20with%20purpose&descAlignY=60&descAlign=62" alt="Habib's GitHub" />
+  <br/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00D4AA&center=true&vCenter=true&width=600&height=45&lines=Hi+Everyone+!;Welcome+to+my+GitHub+Profile!;I'm+focused+on+continuous+learning;Open+for+exciting+collaborations&v=2" alt="Typing SVG" />
 </div>
 
 <p align="center">
@@ -43,7 +41,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,git,github,vscode,figma&theme=dark" alt="HTML, CSS, JavaScript, PHP, MySQL, Git, GitHub, VS Code, and Figma" />
+    <img src="https://skillicons.dev/icons?i=postgres,php,laravel,js,ts,css,java,python,html,kotlin,mysql,git,github,vscode,figma&theme=dark" alt="PostgreSQL, PHP, Laravel, JavaScript, TypeScript, CSS, Java, Python, HTML, Kotlin, MySQL, Git, GitHub, VS Code, and Figma" />
   </a>
 </p>
 
